@@ -1,6 +1,6 @@
-### Olá, me chamo Luiz Eduardo De Souza. 👋
+<h1> Olá, me chamo Luiz Eduardo De Souza. 👋 </h1> 
 
-<div style=" display: flex; justify-content: row;>
+<div style=" display: flex; justify-content: row;">
 <a href="https://github.com/Luizedu10s">
 <img height="150rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luizedu10s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
