@@ -1,4 +1,4 @@
-<h1> Olá, me chamo Luiz Eduardo De Souza. 👋 </h1> 
+<h1> Olá 👋 </h1> 
 
 <div>
 <a href="https://github.com/Luizedu10s">
