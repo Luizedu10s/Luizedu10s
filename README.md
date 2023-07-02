@@ -2,7 +2,7 @@
 
 
 
-<a href="https://github.com/Luizedu10s">
+  <a href="https://github.com/Luizedu10s">
 <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luizedu10s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/Luizedu10s">
@@ -22,5 +22,11 @@
   <a href = "https://wa.me/qr/O2N2POHLSUQON1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-  [Snake animation](https://github.com/Renan-Thierry/Renan-Thierry/blob/output/github-contribution-grid-snake.svg)
+  [Snake animation](https://github.com/Luizedu10s/Luizedu10s/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+<div align="center">
+<br><p align="center"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Luizedu10s}/count.svg" /></p> 
+<br>
+</div>
