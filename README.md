@@ -3,7 +3,7 @@
 <a href="https://github.com/Luizedu10s">
 <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luizedu10s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/Renan-Thierry">
+<a href="https://github.com/Luizedu10s">
   <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luizedu10s&layout=compact&langs_count=7&theme=dracula" />
 </a>
   <div style="display: inline_block"><br>
