@@ -1,9 +1,6 @@
 ### Olá, me chamo Luiz Eduardo De Souza. 👋
 
-- 🔭 Atualmente estou aprendendo as tecnologias do Front-end e Back-end, pretendo seguir carreira como Full-stack.
-- 🌱 Estou estudando atualmente Javascript, python, HTML e CSS.
-- 👯 Atualmente não estou colaborando em nenhum projeto.
-- ⚡ Evoluindo constantemente!.
+
 
 <a href="https://github.com/Luizedu10s">
 <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luizedu10s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
