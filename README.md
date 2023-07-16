@@ -23,11 +23,3 @@
   <a href="https://www.linkedin.com/in/luiz-eduardo-de-souza-8a237723b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://wa.me/qr/YPOXIP5DNXHEM1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 
-   ![Snake animation](https://github.com/Renan-Thierry/Renan-Thierry/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-<div align="center">
-<br><p align="center"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Luizedu10s}/count.svg" /></p> 
-<br>
-</div>
