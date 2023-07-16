@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://github.com/Luizedu10s">
-<img height="150rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luizedu10s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luizedu10s&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/Luizedu10s">
-  <img height="150rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luizedu10s&layout=compact&langs_count=7&theme=dracula" />
+  <img height="150rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luizedu10s&layout=compact&langs_count=7&theme=highcontrast" />
 </a></div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
