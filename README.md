@@ -12,8 +12,8 @@
       <img align="center" alt="Javascript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
       <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <img align="center" alt="nodejs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      <img align="center" alt="django" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+      <img align="center" alt="Nodejs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img align="center" alt="Django" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <br>
   </div><br>
 
