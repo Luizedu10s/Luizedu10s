@@ -15,6 +15,7 @@
   <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg">
+  <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
 </div>
 
 
